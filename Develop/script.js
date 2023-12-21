@@ -2,8 +2,8 @@
 
 //////////////declaring variables for sounds////////////
 
-var soundCorrect = new Audio("https://github.com/sifwolf1991/coding-quiz/raw/main/Assets/sound-correct.mp3?raw=true");
-var soundIncorrect = new Audio("https://github.com/sifwolf1991/coding-quiz/raw/main/Assets/sound-incorrect.mp3?raw=true");
+var soundCorrect = new Audio("/sound-correct.mp3");
+var soundIncorrect = new Audio("/sound-incorrect.mp3");
 
  //variable for storing the questions//
 
