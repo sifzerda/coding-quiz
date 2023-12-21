@@ -40,7 +40,7 @@ The JavaScript contains:
 <p>•	A function to process questions until the quiz ends or the timer runs out</p>
 <p>•	A conditional statement to check if all questions have been presented, whereon quiz will end</p>
 <p>•	A function to end the quiz if the timer runs out</p>
-<p>•	A conditional statement to save the final score to local storage, to be retrieved in future</p>.
+<p>•	A conditional statement to save the final score to local storage, to be retrieved in future</p>
 
 ## 6. Support
 For support, users can contact tydamon@hotmail.com.
