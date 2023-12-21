@@ -165,7 +165,6 @@ questionsEl.removeAttribute(
 getQuestion(); 
 } 
 
-// Loop through array of questions and 
 // Answers and create list with buttons 
 function getQuestion() { 
 let currentQuestion = questions[currentQuestionIndex]; 
@@ -236,7 +235,8 @@ setTimeout(function () {
         "feedback hide"
     ); 
 }, 2000); 
-//conditional; process will run through all the questions, and then the quiz will end
+//conditional; process will run through all the questions until all questions have been presented
+// and then the quiz will end. If the quiz has not ended and the questions have not been exhausted, quiz will keep running
 currentQuestionIndex++; 
 if ( 
     currentQuestionIndex === 
@@ -249,7 +249,8 @@ if (
 } 
 
 // function to end quiz
-// Stop timer and show final score 
+// Stops timer and shows final score 
+// retrieves final score from html elements
 
 function quizEnd() { 
 clearInterval(timerId); 
@@ -278,7 +279,9 @@ if (time <= 0) {
 } 
 } 
 
-// User's name and score is saved in local storage
+// User's name and score is saved in local storage, whitespace in name is 'trimmed'
+// if name space is filled with content, this will be saved/retrieved from local storage
+
 
 function saveHighscore() { 
 let name = nameEl.value.trim(); 
