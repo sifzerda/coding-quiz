@@ -40,10 +40,10 @@ The JavaScript contains:
 <p>•	A function to process questions until the quiz ends or the timer runs out</p>
 <p>•	A conditional statement to check if all questions have been presented, whereon quiz will end</p>
 <p>•	A function to end the quiz if the timer runs out</p>
-<p>•	A conditional statement to save the final score to local storage, to be retrieved in future</p>
+<p>•	A conditional statement to save the final score to local storage, to be retrieved in future</p>.
 ## 6. Support
 For support, users can contact tydamon@hotmail.com.
-## 8. Contributing
+## 7. Contributing
 Any contributions you make are greatly appreciated.
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". 
 1.	Fork the Project
@@ -51,12 +51,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 3.	Commit your Changes (git commit -m 'Add some NewFeature')
 4.	Push to the Branch (git push origin feature/NewFeature)
 5.	Open a Pull Request
-## 9. Authors and acknowledgment
+## 8. Authors and acknowledgment
 The author acknowledges and credits those who have contributed to this project, including:
 <p>•	Provided Code from https://www.geeksforgeeks.org/create-a-quiz-app-with-timer-using-html-css-and-javascript/</p>
 <p>•	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC</p>
 <p>•	Chee Ho Tai</p>
 <p>•	Pranita Shrestha</p>
-
-## 10. License
+## 9. License
 Distributed under the MIT License. See LICENSE.txt for more information.
