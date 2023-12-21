@@ -2,8 +2,8 @@
 
 //////////////declaring variables for sounds////////////
 
-var soundCorrect = new Audio("/Assets/sound-correct.mp3");
-var soundIncorrect = new Audio("/Assets/sound-incorrect.mp3");
+var soundCorrect = new Audio("/Assets/sound-correct.mp3?raw=true");
+var soundIncorrect = new Audio("/Assets/sound-incorrect.mp3?raw=true");
 
  //variable for storing the questions//
 
