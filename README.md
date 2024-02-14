@@ -54,7 +54,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 5.	Open a Pull Request
 ## 8. Authors and acknowledgment
 The author acknowledges and credits those who have contributed to this project, including:
-<p>•	Provided Code from https://www.geeksforgeeks.org/create-a-quiz-app-with-timer-using-html-css-and-javascript/</p>
 <p>•	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC</p>
 <p>•	Chee Ho Tai</p>
 <p>•	Pranita Shrestha</p>
