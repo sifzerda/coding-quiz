@@ -57,5 +57,6 @@ The author acknowledges and credits those who have contributed to this project, 
 <p>•	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC</p>
 <p>•	Chee Ho Tai</p>
 <p>•	Pranita Shrestha</p>
+
 ## 9. License
 Distributed under the MIT License. See LICENSE.txt for more information.
